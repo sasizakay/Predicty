@@ -1,0 +1,6 @@
+@Predicty_HostAddress = http://localhost:5140
+
+GET {{Predicty_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
